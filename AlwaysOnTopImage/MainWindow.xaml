@@ -1,0 +1,20 @@
+﻿<Window x:Class="AlwaysOnTopImage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlwaysOnTopImage"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="500" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="CanResize" AllowsTransparency="False" Topmost="True" KeyDown="Window_KeyDown">
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome CaptionHeight="3"/>
+    </WindowChrome.WindowChrome>
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="image" Stretch="Fill"/>
+        <Button x:Name="exit" Content="X" Width="25" Height="25" HorizontalAlignment="Right" VerticalAlignment="Top" Click="exit_Click" BorderBrush="#FF15FC00" Foreground="#FF15FC00" Background="{x:Null}"/>
+        <Button x:Name="button" Content="..." Margin="0,0,25,0" Width="25" Height="25"  HorizontalAlignment="Right" VerticalAlignment="Top" Click="button_Click" BorderBrush="#FFF300FF" Foreground="#FFF300FF" Background="{x:Null}"/>
+        <Button x:Name="bToggleTopmost" FontSize="8" Content="Hide" Margin="0,25,0,0" Width="25" Height="25"  HorizontalAlignment="Right" VerticalAlignment="Top" BorderBrush="#FF00DAFF" Foreground="#FF00DAFF" Background="{x:Null}" Click="bToggleTopmost_Click"/>
+    </Grid>
+</Window>

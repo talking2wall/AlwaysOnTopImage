@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>halloween-skull-broken-picture-in-four-parts.ico</ApplicationIcon>
+    <SignAssembly>False</SignAssembly>
+    <Copyright>Talking2Wall</Copyright>
+    <PackageIcon>halloween-skull-broken-picture-in-four-parts.png</PackageIcon>
+    <RepositoryUrl>https://github.com/talking2wall</RepositoryUrl>
+    <Description>Simple tool to place an image always on top, for general purpose.</Description>
+    <Company>Talking2Wall</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="halloween-skull-broken-picture-in-four-parts.ico" />
+  </ItemGroup>
+
+</Project>
