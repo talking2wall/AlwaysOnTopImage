@@ -1,5 +1,5 @@
 # AlwaysOnTopImage
-Simple tool to place an image on the top of the screen, for general purpose.
+Simple tool to place an image on top of the screen, for general purpose.
 
 ## Actual Image
 <img src="https://i.ibb.co/DWFjjTT/Animation3.gif"/>
