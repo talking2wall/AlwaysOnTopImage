@@ -1,12 +1,12 @@
 # AlwaysOnTopImage
 Simple tool to place an image on top of the screen, for general purpose.
 
-## Actual Image
-<img src="https://i.ibb.co/DWFjjTT/Animation3.gif"/>
-
 # Usage:
 Press _Win + Shift + S_ to select an area to copy,
 later Press _Ctrl + V_ to paste the selection area to this program.
+
+## Actual Image
+<img src="https://i.ibb.co/DWFjjTT/Animation3.gif"/>
 
 ## Development Enviroment
 - **Program:** _Visual Studio 2022 Comunity Version_
