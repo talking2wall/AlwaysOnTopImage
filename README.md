@@ -10,8 +10,8 @@ later Press _Ctrl + V_ to paste the selection to this program.
 
 ## Development Enviroment
 - **Program:** _Visual Studio 2022 Comunity Version_
-- **Platform:** _.Net 6.0_
-- **Framework:** _Windows Presentation Foundation (WPF)_
+- **Platform:** _Windows Presentation Foundation (WPF)_
+- **Framework:** _.Net 6.0_
 - **Programing Language:** _C# \ XAML_
 
 ## More Information
