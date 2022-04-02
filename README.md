@@ -1,5 +1,5 @@
 # AlwaysOnTopImage
-A Simple tool to place an image on top of the screen, for general purpose.
+A simple tool to place an image on top of the screen, for general purpose.
 
 # Usage:
 Press _Win + Shift + S_ to select an area to copy,
