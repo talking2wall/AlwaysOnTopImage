@@ -3,7 +3,7 @@ A simple tool to place an image on top of the screen, for general purpose.
 
 # Usage:
 Press _Win + Shift + S_ to select an area to copy,
-later Press _Ctrl + V_ to paste the selection area to this program.
+later Press _Ctrl + V_ to paste the selection to this program.
 
 ## Actual Image
 <img src="https://i.ibb.co/DWFjjTT/Animation3.gif"/>
