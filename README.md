@@ -1,5 +1,5 @@
 # AlwaysOnTopImage
-A simple tool to place an image on top of the screen, for general purpose.
+A simple tool to place an image on top of the screen, for general purpose.<br>
 Works great with zoom.
 
 # Usage:
